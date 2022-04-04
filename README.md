@@ -1,2 +1,2 @@
-# Terraform-aws-s3-crr
-Cross Region Replication
+# terraform-aws-s3-crr
+S3 Cross region replication
